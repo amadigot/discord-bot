@@ -1,1 +1,2 @@
-Bot Dudkasikorskiego!
+Bot AMADIGO'TA
+!
