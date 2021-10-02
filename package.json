@@ -1,0 +1,23 @@
+{
+  "name": "botpro-v.1.8-new",
+  "version": "1.0.0",
+  "description": "Bot DudkaSikorskiego",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "dev:watch": "nodemon index,js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dudeksikorski",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "axios": "^0.19.2",
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "discord.js": "^11.5.1",
+    "js-helpers": "github:m7rlin/js-helpers",
+    "js-yaml": "^2.0.1"
+  }
+}
